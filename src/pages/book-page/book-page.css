@@ -1,0 +1,17 @@
+.book-page__content {
+    display: flex;
+}
+
+.book-page__left {
+    width: 70%;
+}
+
+.book-page__right {
+    width: 30%;
+}
+
+.book-page__buy-book {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}

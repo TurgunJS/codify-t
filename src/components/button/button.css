@@ -1,0 +1,23 @@
+.btn{
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.btn--primary {
+    background: linear-gradient(135deg, orange 50%, cyan);
+}
+
+.btn--secondary {
+    background: linear-gradient(135deg, rgb(255, 0, 221) 50%, rgb(0, 213, 255));
+}
+
+.btn--small {
+    font-size: 14px;
+}
+
+.btn--medium {
+    font-size: 18px;
+}
